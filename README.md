@@ -9,8 +9,6 @@
 [![Author](https://img.shields.io/badge/author-reubence-brightgreen)](https://github.com/reubence)
 [![Issues](https://img.shields.io/github/issues/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/issues)
 [![Stars](https://img.shields.io/github/stars/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/stargazers)
-[![Forks](https://img.shields.io/github/forks/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/network/members)
-[![Contributors](https://img.shields.io/github/contributors/reubence/furrow-eight)](https://github.com/reubence/furrow-eight/graphs/contributors)
 
 ---
 
